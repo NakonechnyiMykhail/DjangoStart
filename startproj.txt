@@ -5,8 +5,6 @@ python -m venv venv
 # unix/linux/mac
 source venv/bin/activate
 
-
-
 # GIT
 git init
 
