@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # my apps
     'home',
+    'polls.apps.PollsConfig', # 'polls',
 
     #'text' # in testing
 ]
